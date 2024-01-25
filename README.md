@@ -3,6 +3,7 @@
 Things I changed from lecture are:
 * Add 3 Life to Spaceship, after 3 lifes get destroyed.
 * PickUp shield that protect you for 5 sec.
+* You can see how much enemies have been destroyed
 * Unique edit is when you pick the shield , your spaceship move faster.
 
 Here is the game's itch.io link:
